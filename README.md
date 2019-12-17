@@ -3,5 +3,12 @@ Master repository for your team's project
 Student org bulletin board app for csc 305
 
 # Components
-- https://github.com/aleksanderwozniak/table_calendar
+
+- Google Firestore:
+firebase.google.com
+
+
+- Table Calendar:
+https://github.com/aleksanderwozniak/table_calendar
+
 
