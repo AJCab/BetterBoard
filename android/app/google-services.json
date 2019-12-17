@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113045788863",
+    "firebase_url": "https://betterboard-8b3db.firebaseio.com",
+    "project_id": "betterboard-8b3db",
+    "storage_bucket": "betterboard-8b3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113045788863:android:ba3e1e2d85ced26021ce0a",
+        "android_client_info": {
+          "package_name": "com.uricsc305.team_k_csc_305"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113045788863-ei5qg4mfb69i04n54vvbs9bdre43ajgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzL8tLORFjhcJVnZtnkpmgQ_OS_xaYck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113045788863-ei5qg4mfb69i04n54vvbs9bdre43ajgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
