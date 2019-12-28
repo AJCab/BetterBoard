@@ -1,4 +1,4 @@
-# BetterBoard: Student organization bulletin board project for F19 CSC 305
+# BetterBoard: Student Organization Bulletin Board - Project for Fall '19 CSC 305
 Master repository for my team's project:
 Student org bulletin board app for csc 305
 
