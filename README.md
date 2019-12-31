@@ -13,6 +13,6 @@ https://github.com/aleksanderwozniak/table_calendar
 
 
 # Preview
-![GIF1](/assets/images/BetterBoard1)
-![GIF2](/assets/images/BetterBoard2)
-![GIF3](/assets/images/BetterBoard3)
+![GIF1](/assets/images/BetterBoard1.gif)
+![GIF2](/assets/images/BetterBoard2.gif)
+![GIF3](/assets/images/BetterBoard3.gif)
