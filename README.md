@@ -15,7 +15,16 @@ https://github.com/aleksanderwozniak/table_calendar
 # Preview
 
 <p align="center">
-  <img src="/assets/images/BetterBoard1.gif" width="200" title="">
-  <img src="/assets/images/BetterBoard2.gif" width="200" title="">
-  <img src="/assets/images/BetterBoard3.gif" width="200" title=""> 
+  <img src="/assets/images/BetterBoard1.gif" width="200" title=""> 
 </p>
+
+<p align="center">
+  <img src="/assets/images/BetterBoard2.gif" width="200" title="">
+</p>
+
+<p align="center">
+  <img src="/assets/images/BetterBoard3.gif" width="200" title="">  
+</p>
+
+
+
