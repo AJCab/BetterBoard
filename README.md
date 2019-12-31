@@ -5,3 +5,7 @@ Student org bulletin board app for csc 305
 # Components
 - https://github.com/aleksanderwozniak/table_calendar
 
+# Preview
+![GIF1](/assets/images/BetterBoard1)
+![GIF2](/assets/images/BetterBoard2)
+![GIF3](/assets/images/BetterBoard3)
