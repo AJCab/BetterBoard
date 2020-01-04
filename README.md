@@ -8,7 +8,7 @@ Student org bulletin board app for csc 305
 Browse University of Rhode Island clubs and organizations. Add clubs to your calendar to stay up-to-date with all their events. 
 
 #### Clubs
-Clubs: Advertise your club to other students. Add and delete events for students to see. Events are automatically added to students calendars when they add it to their interested list.
+Advertise your club to other students. Add and delete events for students to see. Events are automatically added to students calendars when they add it to their interested list.
 
 ## Components
 
