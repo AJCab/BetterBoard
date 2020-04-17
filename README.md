@@ -4,10 +4,10 @@ Student org bulletin board app for csc 305
 
 ## About
 
-#### Students
+#### Student Users
 Browse University of Rhode Island clubs and organizations. Add clubs to your calendar to stay up-to-date with all their events. 
 
-#### Clubs
+#### Club Owner User
 Advertise your club to other students. Add and delete events for students to see. Events are automatically added to students calendars when they add it to their interested list.
 
 ## Components
@@ -19,6 +19,9 @@ firebase.google.com
 - Table Calendar:
 https://github.com/aleksanderwozniak/table_calendar
 
+## My Contributions
+
+My contribution to this app included the Browse Clubs Page, Calendar Page, Database Integration, and Login/Authentication System. I worked in a team with Evan DeBassio, Jane Trapala, Joe Burns, and Alex Huang.
 
 ## Preview
 
